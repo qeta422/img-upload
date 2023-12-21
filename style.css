@@ -3,4 +3,5 @@
     height: 400px;
     display: block;
     margin: 100px auto;
+    object-fit: cover;
 }
